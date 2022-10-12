@@ -1,9 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello👋&fontAlign=80&fontAlignY=40&color=gradient)
 <div align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Camof1ow&theme=transparent&show_icons=true"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=Camof1ow&theme=transparent&show_icons=true"/>
  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camof1ow&theme=transparent&layout=compact&langs_count=8"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camof1ow&theme=transparent&layout=compact&langs_count=8&card_width=200"/>
 </div>
 
 <!--
