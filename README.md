@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HI%20It's G10000&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HI%20It's%20G10000&fontSize=90)
 ![Camo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Camof1ow&theme=transparent&show_icons=true)
 <!--
 **Camof1ow/Camof1ow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
